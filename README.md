@@ -1,80 +1,63 @@
-## 📊 Estatísticas do meu GitHub
+# 👨‍💻 Karmaicom Martins
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karmaicom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karmaicom&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Software+Engineer;Java+%7C+Spring+Boot+%7C+C%23+%7C+ASP.NET;Angular+%7C+Docker+%7C+PostgreSQL;Clean+Architecture+%7C+Microservices" />
 </p>
 
-## 🔥 Sequência de contribuições
+## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karmaicom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## 🛠️ Principais Tecnologias e ferramentas que uso
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,angular,ts,html,css,docker,postgres,mysql,git,github,idea,vscode" />
-</p>
-
-## 📈 Gráfico de atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karmaicom&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Karmaicom&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karmaicom&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Engenheiro+de+Software;Backend+%7C+Java+%7C+Spring+Boot+%7C+C%23+%7C+ASP.NET;Frontend+%7C+Angular;APIs+REST+%7C+Docker+%7C+Microsserviços" alt="Typing SVG" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karmaicom&theme=tokyonight" />
 </p>
 
----
-
-## 🚀 Sobre mim
-
-Sou desenvolvedor de software com foco em aplicações corporativas, APIs REST, microsserviços e soluções escaláveis.
-
-Atuo principalmente com desenvolvimento **Backend**, utilizando **Java**, **Spring Boot**, **C#**, **ASP.NET**, bancos de dados relacionais e boas práticas de arquitetura de software.
-
-Também desenvolvo aplicações Frontend com **Angular**, integrando sistemas modernos com APIs REST, Docker e bancos de dados como PostgreSQL, SQL Server e MySQL.
-
----
-
-## 🧠 Principais competências
-
-- Desenvolvimento Backend com **Java**, **Spring Boot**, **C#** e **ASP.NET**
-- Desenvolvimento Frontend com **Angular**
-- Criação e consumo de **APIs REST**
-- Banco de dados com **PostgreSQL**, **SQL Server** e **MySQL**
-- Docker e ambientes containerizados
-- Clean Architecture, arquitetura em camadas e microsserviços
-- Git, GitHub e versionamento de código
-
----
-
-## 🏆 Conquistas
+## 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karmaicom&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Karmaicom&theme=tokyonight&row=2&column=4&no-frame=true" />
 </p>
 
----
+## 🐍 Contribution Snake
 
-## 📌 Áreas de interesse
+<p align="center">
+<img src="https://raw.githubusercontent.com/Karmaicom/Karmaicom/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-- Desenvolvimento Backend
-- APIs REST
+## 🚀 Stack Principal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,angular,ts,docker,postgres,mysql,git,github,idea,vscode" />
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karmaicom&theme=tokyo-night" />
+</p>
+
+## 💼 Sobre Mim
+
+Desenvolvedor de software especializado em Backend com Java, Spring Boot, C#, ASP.NET, APIs REST, microsserviços, Docker e bancos de dados relacionais. Experiência com Angular, arquitetura em camadas, Clean Architecture e integração entre sistemas.
+
+## 🎯 Foco Atual
+
+- Java + Spring Boot
 - Microsserviços
+- Docker
+- PostgreSQL e SQL Server
+- Angular
 - Arquitetura de Software
-- Cloud, Docker e DevOps
-- Integração entre sistemas
-- Aplicações Web modernas
+- Cloud Computing
 
----
+## 📌 Repositórios em Destaque
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karmaicom&label=Visualizações+do+perfil&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <strong>Construindo soluções com código limpo, arquitetura sólida e foco em evolução contínua.</strong>
-</p>
+⭐ APIs REST com Spring Boot
+⭐ Microsserviços Java
+⭐ Angular
+⭐ ASP.NET Web API
+⭐ Docker
+⭐ PostgreSQL
