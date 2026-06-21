@@ -57,18 +57,6 @@ Perfil técnico voltado para desenvolvimento de sistemas corporativos, APIs REST
 
 ---
 
-## 📌 Áreas de interesse
-
-- Desenvolvimento Backend
-- APIs REST
-- Microsserviços
-- Arquitetura de Software
-- Cloud, Docker e DevOps
-- Integração entre sistemas
-- Aplicações Web modernas
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Karmaicom&label=Visualizações+do+perfil&color=0e75b6&style=flat" alt="Profile views" />
 </p>
