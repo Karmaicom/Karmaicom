@@ -1,6 +1,4 @@
-# 👨‍💻 Karmaicom Rocha
-
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do meu GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karmaicom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
@@ -13,7 +11,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karmaicom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Principais Tecnologias e ferramentas que uso
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,angular,ts,js,html,css,docker,postgres,mysql,git,github,idea,vscode" />
