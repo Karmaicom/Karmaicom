@@ -1,7 +1,5 @@
 # 👨‍💻 Karmaicom Rocha
 
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -9,23 +7,23 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karmaicom&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
 ## 🔥 Sequência de contribuições
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karmaicom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+## 🛠️ Tecnologias e ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,angular,ts,js,html,css,docker,postgres,mysql,git,github,idea,vscode" />
+</p>
 
 ## 📈 Gráfico de atividade
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karmaicom&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Engenheiro+de+Software;Backend+%7C+Java+%7C+Spring+Boot+%7C+C%23+%7C+ASP.NET;Frontend+%7C+Angular;APIs+REST+%7C+Docker+%7C+Microsserviços" alt="Typing SVG" />
@@ -52,14 +50,6 @@ Também desenvolvo aplicações Frontend com **Angular**, integrando sistemas mo
 - Docker e ambientes containerizados
 - Clean Architecture, arquitetura em camadas e microsserviços
 - Git, GitHub e versionamento de código
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,angular,ts,js,html,css,docker,postgres,mysql,git,github,idea,vscode" />
-</p>
 
 ---
 
