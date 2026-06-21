@@ -1,9 +1,3 @@
-# 👨‍💻 Karmaicom Martins
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Software+Engineer;Java+%7C+Spring+Boot+%7C+C%23+%7C+ASP.NET;Angular+%7C+Docker+%7C+PostgreSQL;Clean+Architecture+%7C+Microservices" />
-</p>
-
 ## 📊 Estatísticas
 
 <p align="center">
