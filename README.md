@@ -33,6 +33,18 @@ Também desenvolvo aplicações Frontend com **Angular**, integrando sistemas mo
 
 ---
 
+## 💼 Perfil profissional para recrutadores
+
+**Engenheiro de Software | Backend Developer | Full Stack Developer**
+
+Perfil técnico voltado para desenvolvimento de sistemas corporativos, APIs REST, microsserviços e aplicações web modernas. Tenho foco em código limpo, arquitetura bem estruturada, integração entre sistemas e soluções escaláveis para ambientes reais de negócio.
+
+**Principais stacks:** Java, Spring Boot, C#, ASP.NET, Angular, Docker, PostgreSQL, SQL Server e MySQL.
+
+**Interesses profissionais:** oportunidades como Desenvolvedor Backend, Desenvolvedor Java, Desenvolvedor .NET, Desenvolvedor Full Stack ou Engenheiro de Software.
+
+---
+
 ## 🧠 Principais competências
 
 - Desenvolvimento Backend com **Java**, **Spring Boot**, **C#** e **ASP.NET**
