@@ -35,11 +35,17 @@
 
 ---
 
-# 🏆 Troféus
+# ⭐ Repositórios em Destaque
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Karmaicom&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<a href="https://github.com/Karmaicom/coti-fullstack-java-angular-ia-05-2026">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karmaicom&repo=coti-fullstack-java-angular-ia-05-2026&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Karmaicom/api-usuarios">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karmaicom&repo=api-usuarios&theme=tokyonight"/>
+</a>
 
 </div>
 
