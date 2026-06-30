@@ -43,6 +43,21 @@ Também desenvolvo aplicações Frontend com **Angular**, integrando sistemas mo
 
 ---
 
+# 📚 Atualmente estudando
+
+- Java 21+
+- Spring Boot 3
+- Spring Security
+- Docker
+- Kubernetes
+- Microsserviços
+- Apache Kafka
+- RabbitMQ
+- Arquitetura de Software
+- AWS
+
+---
+
 ## 💼 Perfil profissional para recrutadores
 
 **Engenheiro de Software | Backend Developer | Full Stack Developer**
