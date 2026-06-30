@@ -35,6 +35,16 @@
 
 ---
 
+# 🏆 Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Karmaicom&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
 ## 🚀 Sobre mim
 
 Sou desenvolvedor de software com foco em aplicações corporativas, APIs REST, microsserviços e soluções escaláveis.
