@@ -35,28 +35,10 @@
 
 ---
 
-# ⭐ Repositórios em Destaque
-
-<div align="center">
-
-<a href="https://github.com/Karmaicom/coti-fullstack-java-angular-ia-05-2026">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karmaicom&repo=coti-fullstack-java-angular-ia-05-2026&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Karmaicom/api-usuarios">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Karmaicom&repo=api-usuarios&theme=tokyonight"/>
-</a>
-
-</div>
-
----
-
 ## 🚀 Sobre mim
 
 Sou desenvolvedor de software com foco em aplicações corporativas, APIs REST, microsserviços e soluções escaláveis.
-
 Atuo principalmente com desenvolvimento **Backend**, utilizando **Java**, **Spring Boot**, **C#**, **ASP.NET**, bancos de dados relacionais e boas práticas de arquitetura de software.
-
 Também desenvolvo aplicações Frontend com **Angular**, integrando sistemas modernos com APIs REST, Docker e bancos de dados como PostgreSQL, SQL Server e MySQL.
 
 ---
