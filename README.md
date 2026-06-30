@@ -7,6 +7,26 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karmaicom&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 -->
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karmaicom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karmaicom&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+---
+
+## ⭐ Repositórios em Destaque
+
+<div align="center">
+  <a href="https://github.com/Karmaicom/coti-fullstack-java-angular-ia-05-2026">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karmaicom&repo=coti-fullstack-java-angular-ia-05-2026&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/Karmaicom/NOME_DO_SEGUNDO_REPOSITORIO">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karmaicom&repo=NOME_DO_SEGUNDO_REPOSITORIO&theme=tokyonight"/>
+  </a>
+</div>
+
 ## 🛠️ Principais Tecnologias e ferramentas que uso
 
 <p align="center">
