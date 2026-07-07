@@ -21,6 +21,14 @@
   <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,angular,ts,html,css,docker,postgres,mysql,git,github,idea,vscode" />
 </p>
 
+<center>
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+</center>
+
 ---
 
 ## 📈 Gráfico de atividade
@@ -32,14 +40,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Engenheiro+de+Software;Backend+%7C+Java+%7C+Spring+Boot+%7C+C%23+%7C+ASP.NET;Frontend+%7C+Angular;APIs+REST+%7C+Docker+%7C+Microsserviços" alt="Typing SVG" />
 </p>
-
----
-
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
