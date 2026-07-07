@@ -45,7 +45,7 @@ Também desenvolvo aplicações Frontend com **Angular**, integrando sistemas mo
 
 # 📚 Atualmente estudando
 
-- Java 21+
+- Java 17+
 - Spring Boot 3
 - Spring Security
 - Docker
