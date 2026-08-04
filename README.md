@@ -49,7 +49,7 @@ Também desenvolvo aplicações Frontend com **Angular**, integrando sistemas mo
 - Spring Boot 3
 - Spring Security
 - C# .Net
-- Ap.Net
+- Asp.Net
 - Docker
 - Kubernetes
 - Microsserviços
